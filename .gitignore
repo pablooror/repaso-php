@@ -2,7 +2,7 @@
 .env
 *.log
 
-# Carpeta de dependencias de PHP (si usas Composer)
+# Carpeta de dependencias de PHP
 vendor/
 
 # Archivos de sistema
